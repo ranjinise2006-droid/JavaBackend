@@ -9,3 +9,4 @@ public class sumofarray {
         System.out.println("Sum of array elements = " + sum);
     }
 }
+
