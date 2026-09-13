@@ -1,6 +1,16 @@
+<<<<<<< HEAD
 public class binary {
     public static void main(String[] args) {
         int a[] = {44, 56, 68, 79, 81, 90, 98};
+=======
+import java.util.Arrays;
+
+public class binary {
+    public static void main(String[] args) {
+        int a[] = {44, 56, 68, 79, 81, 90, 98};
+       
+       /* 
+>>>>>>> 035cdad (Fix binary search last line)
         boolean flag = false;
 
         int key = 79;
@@ -29,3 +39,11 @@ public class binary {
         }
     }
 }
+<<<<<<< HEAD
+=======
+*/
+
+ System.out.println(java.util.Arrays.binarySearch(a, 79));
+    }
+}
+>>>>>>> 035cdad (Fix binary search last line)
